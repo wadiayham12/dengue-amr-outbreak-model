@@ -10,6 +10,7 @@ THEORETICAL FOUNDATION & LITERATURE REVIEW REFERENCES:
 [2] PMC13362098: Modelling climatic and temporal dynamics using deep learning models (2026)
 [3] ResearchGate/374930588: Misuse of Antibiotics in Dengue Fever and AMR Pressures (2026)
 [4] Lancet Planet Health/386901614: Intersections between climate change and AMR (2026)
+[5] NLM PMID39365840 / PLOS NTDs: 24-Year Surveillance of AMR Trends in Dhaka — Saha et al. (2024)
 [5-8] Literature Axis 1: Climate Vectors & Machine Learning Features (PMC Search Framework)
 [9-12] Literature Axis 2: Clinical Over-prescription Rates in Febrile Illnesses
 [13-15] Literature Axis 3: Climate Disruption & Horizontal Gene Transfer (HGT)
